@@ -6,7 +6,9 @@ BMI Calculator
 ***Documentation***
 ---
 ---
-A BMI calculator server
+A BMI calculator server finds your category
+by formula bmi = weight / (height * height)
+and shows tips that you should follow.
 
 Program running hints:
 ---
